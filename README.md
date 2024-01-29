@@ -2,13 +2,11 @@
 
 ## How to write readme file
 
-###Examples:
+### Examples:
 **This is bold text**
-
-Combined emphasis with **asterisks and _underscores_**.
-
+*This is italic text*
+Italic in bold **asterisks and _underscores_**.
 ~~delete this~~
 
-*This is italic text*
 
 
