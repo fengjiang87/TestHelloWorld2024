@@ -15,7 +15,7 @@ Italic in bold **asterisks and _underscores_**.
 1. Open the door
     1. pull
     2. pull hard
-           -pull harder
-           -pull harder
+           - pull harder
+           - pull harder
 3. Put elephant in
 4. Close the door
