@@ -1,4 +1,14 @@
-# TestHelloWorld2024
-## demo to show github basics
-### this is the second line
-* this is added in branch to show new feature *
+# Title
+
+## How to write readme file
+
+### Examples:
+**This is bold text**
+
+Combined emphasis with **asterisks and _underscores_**.
+
+ ~~Scratch this.~~
+
+*This is italic text*
+
+_This is italic text_
