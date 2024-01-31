@@ -5,6 +5,7 @@
 
 ### 1 Examples
 **This is bold text** 
+
 **bold text**
 
 *This is italic text*
