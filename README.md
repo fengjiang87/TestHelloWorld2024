@@ -8,11 +8,12 @@
 
 **bold text**
 
-* This is italic text *
+*This is italic text*
 
 Italic in bold **asterisks and _underscores_**.
 
-~~delete this~~
+~~something I don't like~~
+> blockquote test
 
 ### 2 Steps of putting elephant in fridge 
 1. Open the door
