@@ -8,7 +8,7 @@
 
 **bold text**
 
-*This is italic text*
+* This is italic text *
 
 Italic in bold **asterisks and _underscores_**.
 
