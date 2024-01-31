@@ -1,6 +1,4 @@
-#H1
-
-#Markdown Tutorial 
+# H1 # Markdown Tutorial 
 
 ## How to write readme file
 
